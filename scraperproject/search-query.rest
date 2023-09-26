@@ -1,0 +1,29 @@
+GET https://www.aliexpress.com/w/wholesale-air-compressor.html?SearchText=air+compressor
+
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0
+
+
+###
+GET https://www.aliexpress.com/w/wholesale-air-compressor.html?SearchText=air+compressor
+
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0
+
+
+
+###
+
+GET https://www.aliexpress.com/wholesale?SearchText=air+compressor
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0
+
+
+
+
+
+###
+GET https://www.aliexpress.com/w/wholesale-air-compressor.html?SearchText=air+compressor&g=y&isFavorite=y&sortType=total_tranpro_desc&trafficChannel=main&minPrice=40&maxPrice=320
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0
+
+
+
+###
+GET https://www.aliexpress.com/wholesale?g=y&isfavorite=y&maxprice=420.0&minprice=30.0&sorttype=total_tranpro_desc&SearchText=solar+panel&trafficChannel=main&minPrice=30.0&maxPrice=420.0&isFavorite=y&isMall=y&sortType=total_tranpro_desc

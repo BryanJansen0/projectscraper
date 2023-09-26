@@ -1,0 +1,47 @@
+[tool.poetry]
+name = "aliscra"
+version = "0.1.0"
+description = ""
+authors = ["rechkadev <github@rechka.dev>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+playwright = "^1.30.0"
+playwright-stealth = "^1.0.5"
+loguru = "^0.6.0"
+Faker = "^16.8.1"
+json5 = "^0.9.11"
+pydantic = "^1.10.4"
+datamodel-code-generator = "^0.17.1"
+bpython = "^0.24"
+parsel = "^1.7.0"
+pandas = "^1.5.3"
+openpyxl = "3.1.0"
+tenacity = "^8.2.1"
+tinydb = "^4.7.1"
+tqdm = "^4.64.1"
+asyncinit = "^0.2.4"
+aiofiles = "^23.1.0"
+openai = "^0.27.0"
+shopifyapi = "^12.2.0"
+ratelimit = "^2.2.1"
+sentry-sdk = "^1.16.0"
+thefuzz = "^0.19.0"
+python-levenshtein = "^0.20.9"
+streamlit = "^1.22.0"
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.21.1"
+flake8-bugbear = "^23.1.20"
+flake8-black = "^0.3.6"
+devtools = "^0.10.0"
+pytest = "^7.2.1"
+odmantic = "^0.9.2"
+beanie = "^1.17.0"
+isort = "^5.12.0"
+bpython = "^0.24"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
